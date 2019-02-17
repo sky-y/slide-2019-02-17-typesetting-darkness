@@ -31,9 +31,9 @@ aspectratio: 169
 # Q: この本はMarkdownで書いた？
 
 - Yes. ただし……
-    - 同人誌版：「Pandoc's Markdownに\LaTeX 命令を埋め込んだやつ」
+    - 同人誌版：「Pandoc's MarkdownにLaTeX 命令を埋め込んだやつ」
     - 商業誌版：版元の指示に従い、Pandocで上記をWordに変換
-- したがって、\LaTeX 芸です
+- したがって、LaTeX 芸です
 
 ![](img/syoei_360dpi_title.png){width=70%}
 
