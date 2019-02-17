@@ -20,7 +20,8 @@ aspectratio: 169
 # Q: このスライドはどうやってビルドした？
 
 ```
-$ pandoc slide.md -t beamer --pdf-engine=xelatex -H header.tex -o slide.pdf
+$ pandoc slide.md -t beamer --pdf-engine=xelatex \
+    -H header.tex -o slide.pdf
 ```
 
 - Pandoc 2.6
