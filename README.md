@@ -1,6 +1,4 @@
-## スライドへのリンク
-
-(ここに書く)
+[スライドへのリンク (PDF)](https://github.com/sky-y/slide-2019-02-17-typesetting-darkness/raw/master/slide.pdf)
 
 ## 動作環境
 
