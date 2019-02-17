@@ -17,6 +17,19 @@ aspectratio: 169
 
 ---
 
+# Q: このスライドはどうやってビルドした？
+
+```
+$ pandoc slide.md -t beamer --pdf-engine=xelatex -H header.tex -o slide.pdf
+```
+
+- Pandoc 2.6
+- XeLaTeX (TeX Live 2018)
+    - LaTeX Beamer (スライドつくるやつ)
+    - `header.tex` で、若干カスタマイズ
+
+---
+
 ![](img/zr1.png)
 
 ---
