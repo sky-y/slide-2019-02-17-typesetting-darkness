@@ -17,6 +17,17 @@ aspectratio: 169
 
 ---
 
+# 「Markdownで同人誌」の闇
+
+- 技術書典4で「Pandoc + LuaLaTeX」
+    - LaTeXの知識が必須
+    - 人類一般にはまだ早い？（これから頑張ります）
+- 今日は割愛します
+    - 以前に記事にまとめたので読んでください
+    - [「技術同人誌をMarkdownで書く」とは、実際どういうことか？｜藤原 惟](https://note.solarsolfa.net/n/n697389a6be3b)
+
+---
+
 # Q: この本はMarkdownで書いた？
 
 - Yes. ただし……
@@ -39,17 +50,6 @@ $ pandoc slide.md -t beamer --pdf-engine=xelatex \
 - XeLaTeX (TeX Live 2018)
     - LaTeX Beamer (スライドつくるやつ)
     - `header.tex` で、若干カスタマイズ
-
----
-
-# 「Markdownで同人誌」の闇
-
-- 技術書典4で「Pandoc + LuaLaTeX」
-    - LaTeXの知識が必須
-    - 人類一般にはまだ早い？（これから頑張ります）
-- 今日は割愛します
-    - 以前に記事にまとめたので読んでください
-    - [「技術同人誌をMarkdownで書く」とは、実際どういうことか？｜藤原 惟](https://note.solarsolfa.net/n/n697389a6be3b)
 
 ---
 
