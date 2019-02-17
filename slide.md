@@ -31,6 +31,25 @@ $ pandoc slide.md -t beamer --pdf-engine=xelatex \
 
 ---
 
+# 「Markdownで同人誌」の闇
+
+- 技術書典4で「Pandoc + LuaLaTeX」
+    - LaTeXの知識が必須
+    - 人類一般にはまだ早い？（これから頑張ります）
+- 今日は割愛します
+    - 以前に記事にまとめたので読んでください
+    - [「技術同人誌をMarkdownで書く」とは、実際どういうことか？｜藤原 惟](https://note.solarsolfa.net/n/n697389a6be3b)
+
+---
+
+# 今日話したいこと
+
+\Large
+
+## TeX はなぜ辛いか
+
+---
+
 ![](img/zr1.png)
 
 ---
@@ -43,14 +62,6 @@ $ pandoc slide.md -t beamer --pdf-engine=xelatex \
 
 - [ZR-TeXnobabblerさん (zr_tex8r) ](https://twitter.com/zr_tex8r)
 - ~~TeX 芸人~~ TeX の日本語エコシステムをすごい勢いで開発してる人
-
----
-
-# 今日話したいこと
-
-\Large
-
-## TeX はなぜ辛いか
 
 ---
 
